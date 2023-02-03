@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo -n "enter Your Name:"
+read userName
+echo "Your name name is  $userName"
+
+#chmod +x user-input

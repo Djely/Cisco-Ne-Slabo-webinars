@@ -1,0 +1,12 @@
+
+#остановить
+docker stop samplerunning
+
+#что запущено
+docker ps -a
+
+#запустить
+docker start samplerunning
+
+#удалить (после остановки)
+docker rm samplerunning
